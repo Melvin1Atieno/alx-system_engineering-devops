@@ -13,4 +13,8 @@ Creates an empty file
 Edits file permissions 
  `chmod u+x hello`
 The u- user. Incase we want to change group permissions use g. Everyone else use o and a for everyone else.(ugoa). The x add execute permissions while r and w add read and write permissions respectively.
-
+Numerical notations can also be used to assign permissions 
+4 - read
+2 - write
+1 - execute
+owner, group, everyonelse.
