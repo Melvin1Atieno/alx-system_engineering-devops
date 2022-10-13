@@ -17,4 +17,7 @@ Numerical notations can also be used to assign permissions
 4 - read
 2 - write
 1 - execute
-owner, group, everyonelse.
+owner, group, everyonelse
+This command can also be used to change permissions to refernec other files.
+`chmod --reference=RFILE file`
+
